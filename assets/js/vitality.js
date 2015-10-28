@@ -33,7 +33,7 @@
 
     // Owl Carousel Settings
     $(".about-carousel").owlCarousel({
-        items: 3,
+        items: 6,
         navigation: true,
         pagination: false,
         navigationText: [
@@ -150,7 +150,7 @@ $(document).ready(function() {
     if (isPhoneDevice) {
         //mobile
     } else {
-        //desktop               
+        //desktop
         // Initialize WOW.js
         wow = new WOW({
             offset: 50
