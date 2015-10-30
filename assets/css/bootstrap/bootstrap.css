@@ -192,6 +192,14 @@ th {
   background-color: #E0DEDC;
 }
 
+#email_address {
+  display: block;
+  width: 275px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #contact {
 }
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
