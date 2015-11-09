@@ -1620,8 +1620,8 @@ pre code {
   }
 }
 .container-fluid {
-  padding-right: 100px;
-  padding-left: 100px;
+  padding-right: 10%;
+  padding-left: 10%;
   margin-right: auto;
   margin-left: auto;
 }
