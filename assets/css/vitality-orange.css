@@ -260,6 +260,20 @@ hr.colored {
 .navbar .navbar-nav li a:focus {
   outline: none;
 }
+
+.center img {
+  width: 100px;
+}
+
+.center {
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+.media-body h3 {
+  text-align: center;
+}
+
 header {
   position: relative;
   display: block;
