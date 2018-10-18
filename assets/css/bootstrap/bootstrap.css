@@ -9,6 +9,12 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
+#PartnerBadge img {
+  width: 200px;
+  margin: auto;
+  display: block;
+}
+
 body {
   margin: 0;
 }
